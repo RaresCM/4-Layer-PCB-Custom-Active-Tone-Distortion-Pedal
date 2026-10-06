@@ -5,7 +5,7 @@ This is a custom built distortion pedal aiming to apply theoretical knowledge fr
 
 ## Specifications:
 - 4 Layer PCB with a dedicated ground copper pour plane, power plane and 2 signal planes
-- 9V Barrel jack wall input with a ±9V delivery using a charge pump
+- 9V Barrel jack wall input/9V battery with a ±9V delivery using a charge pump
 - 2 Op Amp design using a TL081 for gain and a NE5532 for volume output and 3 active tone stack
 - De-coupling capacitors for stable op amp operation and low pass filter input for noise elimination 
 - Designed in KiCad 10.0 and verified manufacturable by a JLCPCB quote
